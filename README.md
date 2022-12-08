@@ -1,0 +1,3 @@
+- [Regeln](RULES.md)
+- [Plugins](PLUGINS.md)
+- [Teams](TEAMS.md)
